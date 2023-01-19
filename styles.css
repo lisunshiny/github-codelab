@@ -28,7 +28,7 @@ html {
   justify-content: flex-end;
 }
 .author span {
-  font-size: 12px;
+  font-size: 11px;
 }
 
 @keyframes tracking-in-expand {
